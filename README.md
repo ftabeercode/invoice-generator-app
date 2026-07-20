@@ -97,36 +97,33 @@ This project demonstrates practical knowledge of:
 
 ### Dashboard
 
-![Dashboard](screenshots/dashboard1.png)
-![Dashboard](screenshots/dashboard2.png)
+[![image alt]()
+[![image alt]()
 
 ### Create Invoice Screen
 
-![Create Invoice](screenshots/create_invoice.png)
-![Create Invoice](screenshots/create_invoice 2.png)
+[![image alt]()
+[![image alt]()
 
 ### Invoice List Screen
 
-![Invoice List](screenshots/invoice screen.png)
-![Invoice List](screenshots/invoice screen 2.png)
+[![image alt]()
+[![image alt]()
 
 
 ### Invoice Detail Screen
 
-![Invoice Detail](screenshots/invoice_detail.png)
+[![image alt]()
 
 ### Settings Screen
 
 ![image alt](https://github.com/ftabeercode/invoice-generator-app/blob/8b9d4a44ce3c3e9712b14be265067fada72fae15/setting%201.png)
-![Settings](screenshots/setting 2.png)
+[![image alt](https://github.com/ftabeercode/invoice-generator-app/blob/0acc46ccc8784d3ebf51b24eca900d96ec71257a/setting%202.png)
 
 ### Generated PDF
 
-![PDF Preview](screenshots/pdf_preview.png)
+[![image alt]()
 
-> **Note:** Create a folder named `screenshots` in the root directory of your project and place all screenshot images inside it.
-
----
 
 ## 🚀 Setup Instructions
 
