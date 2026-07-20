@@ -1,10 +1,6 @@
 # 📄 Invoice Generator App
 
 <p align="center">
-  <img src="screenshots/app_logo.png" width="150" alt="Invoice Generator Logo"/>
-</p>
-
-<p align="center">
   <b>A modern Flutter-based Invoice Management Application</b><br>
   Create, manage, export, and share professional invoices with ease.
 </p>
