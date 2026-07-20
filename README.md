@@ -97,15 +97,19 @@ This project demonstrates practical knowledge of:
 
 ### Dashboard
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/dashboard1.png)
+![Dashboard](screenshots/dashboard2.png)
 
 ### Create Invoice Screen
 
 ![Create Invoice](screenshots/create_invoice.png)
+![Create Invoice](screenshots/create_invoice 2.png)
 
 ### Invoice List Screen
 
-![Invoice List](screenshots/invoice_list.png)
+![Invoice List](screenshots/invoice screen.png)
+![Invoice List](screenshots/invoice screen 2.png)
+
 
 ### Invoice Detail Screen
 
@@ -113,7 +117,8 @@ This project demonstrates practical knowledge of:
 
 ### Settings Screen
 
-![Settings](screenshots/settings.png)
+![Settings](screenshots/setting 1.png)
+![Settings](screenshots/setting 2.png)
 
 ### Generated PDF
 
