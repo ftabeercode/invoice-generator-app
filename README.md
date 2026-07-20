@@ -117,7 +117,7 @@ This project demonstrates practical knowledge of:
 
 ### Settings Screen
 
-![Settings][(screenshots/setting 1.png)](https://github.com/ftabeercode/invoice-generator-app/blob/1d3a1e948df1d0a4cf4704c568e306a572de6e4d/setting%201.png)
+![image alt](https://github.com/ftabeercode/invoice-generator-app/blob/8b9d4a44ce3c3e9712b14be265067fada72fae15/setting%201.png)
 ![Settings](screenshots/setting 2.png)
 
 ### Generated PDF
