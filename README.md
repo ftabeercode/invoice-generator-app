@@ -97,23 +97,21 @@ This project demonstrates practical knowledge of:
 
 ### Dashboard
 
-[![image alt]()
-[![image alt]()
+[![image alt](https://github.com/ftabeercode/invoice-generator-app/blob/e94de8d0bbdd6787fdca4bf26f749290560dddfd/dashboard%201.png)
+[![image alt](https://github.com/ftabeercode/invoice-generator-app/blob/e94de8d0bbdd6787fdca4bf26f749290560dddfd/dashboard%202.png)
 
 ### Create Invoice Screen
 
-[![image alt]()
-[![image alt]()
+[![image alt](https://github.com/ftabeercode/invoice-generator-app/blob/e94de8d0bbdd6787fdca4bf26f749290560dddfd/create%20invoice.png)
+[![image alt](https://github.com/ftabeercode/invoice-generator-app/blob/e94de8d0bbdd6787fdca4bf26f749290560dddfd/create%20invoice%202.png)
 
 ### Invoice List Screen
 
-[![image alt]()
-[![image alt]()
+[![image alt](https://github.com/ftabeercode/invoice-generator-app/blob/e94de8d0bbdd6787fdca4bf26f749290560dddfd/Invoice%20screen.png)
 
+### Invoice Functionalities
 
-### Invoice Detail Screen
-
-[![image alt]()
+[![image alt](https://github.com/ftabeercode/invoice-generator-app/blob/e94de8d0bbdd6787fdca4bf26f749290560dddfd/invoice%20screen%202.png)
 
 ### Settings Screen
 
