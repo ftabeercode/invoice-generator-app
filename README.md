@@ -118,17 +118,12 @@ This project demonstrates practical knowledge of:
 ![image alt](https://github.com/ftabeercode/invoice-generator-app/blob/8b9d4a44ce3c3e9712b14be265067fada72fae15/setting%201.png)
 [![image alt](https://github.com/ftabeercode/invoice-generator-app/blob/0acc46ccc8784d3ebf51b24eca900d96ec71257a/setting%202.png)
 
-### Generated PDF
-
-[![image alt]()
-
-
 ## 🚀 Setup Instructions
 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/invoice-generator-app.git
+git clone https://github.com/ftabeercode/invoice-generator-app.git
 ```
 
 ### 2. Navigate to the Project
